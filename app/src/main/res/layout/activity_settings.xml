@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Settings">
+
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mute Notification Sound" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Block Notifications" />
+
+    <Button
+        android:id="@+id/blockbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Block SomeOne"/>
+
+    <Button
+        android:id="@+id/passbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Password"/>
+
+    <Button
+        android:id="@+id/deletebtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Account"/>
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644538227655",
+    "firebase_url": "https://mist-145b3.firebaseio.com",
+    "project_id": "mist-145b3",
+    "storage_bucket": "mist-145b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644538227655:android:7604aecf76d8ff9d",
+        "android_client_info": {
+          "package_name": "com.example.imtiaz.mist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644538227655-3pu3fjvps5f2ng4eqbb1en6b54nq9e3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imtiaz.mist",
+            "certificate_hash": "d842c44b0fadb2c60fe4ab33e9b3c01678c84747"
+          }
+        },
+        {
+          "client_id": "644538227655-g5bf46psri8m8ubgo2834af5m1em25bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzflUBy6uT-MATIgLcA70K8STsSEbiQt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644538227655-g5bf46psri8m8ubgo2834af5m1em25bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
